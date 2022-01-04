@@ -38,6 +38,7 @@ Below is a statistical summary for the month of December:
 
 
 **Summary**
+
 Based on the results above, it can be expected that a surf shop in Oahu will have more customers in June than in December due to the slight decrease in average daily temperature.
 
 It is important to have the most relevant results when conducting analysis on a potential business venture. For this reason, we carried out two additional queries for  June and December to obatin additional  weather data about precipitation for these periods. 
